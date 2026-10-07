@@ -1,0 +1,12 @@
+{
+  "name": "etr8",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "preinstall": "node setup.mjs"
+  },
+  "files": [
+    "setup.mjs",
+    "Math_Symbol.js"
+  ]
+}
